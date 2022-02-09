@@ -1,0 +1,11 @@
+C:\Users\suisideboy\source\repos\gui cs\gui cs\bin\Debug\gui cs.exe.config
+C:\Users\suisideboy\source\repos\gui cs\gui cs\bin\Debug\gui cs.exe
+C:\Users\suisideboy\source\repos\gui cs\gui cs\bin\Debug\gui cs.pdb
+C:\Users\suisideboy\source\repos\gui cs\gui cs\obj\Debug\gui cs.csproj.AssemblyReference.cache
+C:\Users\suisideboy\source\repos\gui cs\gui cs\obj\Debug\gui cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\suisideboy\source\repos\gui cs\gui cs\obj\Debug\gui_cs.Form1.resources
+C:\Users\suisideboy\source\repos\gui cs\gui cs\obj\Debug\gui_cs.Properties.Resources.resources
+C:\Users\suisideboy\source\repos\gui cs\gui cs\obj\Debug\gui cs.csproj.GenerateResource.cache
+C:\Users\suisideboy\source\repos\gui cs\gui cs\obj\Debug\gui cs.csproj.CoreCompileInputs.cache
+C:\Users\suisideboy\source\repos\gui cs\gui cs\obj\Debug\gui cs.exe
+C:\Users\suisideboy\source\repos\gui cs\gui cs\obj\Debug\gui cs.pdb
