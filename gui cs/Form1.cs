@@ -26,14 +26,12 @@ namespace gui_cs
             int a = Convert.ToInt32(nud_a.Value);
             model.set(a, 1);
         }
-
         private void nud_b_ValueChanged(object sender, EventArgs e)
         {
             int b = Convert.ToInt32(nud_b.Value);
             model.set(b, 2);
 
         }
-
         private void nud_c_ValueChanged(object sender, EventArgs e)
         {
             int c = Convert.ToInt32(nud_c.Value);
@@ -191,7 +189,6 @@ namespace gui_cs
                 this.c = num_c;
             }
         }
-
         private void Form1_Load(object sender, EventArgs e)
         {
             model.check_update();
